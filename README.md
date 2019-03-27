@@ -1,4 +1,4 @@
-# semantic_segmentation_pytorch_unet\
+# semantic_segmentation_pytorch_unet
 
 ## Description
 
@@ -11,10 +11,15 @@ Mask image is used to train deep learning model to detect the ROI from whole ima
 Structure of data folder
 
 data
+
     --train
+
         --images
+    
         --masks
+    
     --test
+    
         --images
 
 Sample Image
