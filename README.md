@@ -1,4 +1,4 @@
-# semantic_segmentation_pytorch_unet
+# Semantic Segmentation pytorch unet
 
 ## Description
 
