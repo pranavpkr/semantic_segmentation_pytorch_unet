@@ -44,7 +44,7 @@ def tensor_to_numpy(tensor):
     return t_numpy
 
 
-def show_images(images, masks, columns=6):
+def show_images(images, masks, columns=2):
     fig = plt.figure()
     rows = np.ceil((images.shape[0] + masks.shape[0]) / columns)
     index = 1
